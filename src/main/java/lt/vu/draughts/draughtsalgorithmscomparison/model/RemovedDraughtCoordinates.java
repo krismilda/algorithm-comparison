@@ -1,0 +1,14 @@
+package lt.vu.draughts.draughtsalgorithmscomparison.model;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+public class RemovedDraughtCoordinates {
+    private int row;
+    private int column;
+}
+
+
+
